@@ -1,7 +1,19 @@
 Este projeto consiste de um "Tabletop": uma aplicação que permite que o usuário jogues diferentes jogos. Esses jogos são: xadrez, Connect4 e Jogo da Velha. Além disso, o usuário pode também criar novos usuários que salvam o número de vitórias, derrotas e empates nos 3 jogos.
 
 Este projeto foi feito por Tiago Trindade, Felipe Duarte, Nicholas Rodrigues e Thiago Melo para a disciplina de LP1 - Linguagem de Programação - na UFPB - Universidade Federal da Paraíba.
+
+
+![MenuImagemFundo](https://github.com/trindadetiago/TableTop/assets/111463808/3d16cf4d-0e47-4e70-b5c8-c95235b11cf4)
+
+
+
+![Screenshot_9](https://github.com/trindadetiago/TableTop/assets/111463808/7b068307-91ab-4ce3-883e-99c826f69127)
+
+
+
 O seu relátorio pode ser encontrado aqui: https://docs.google.com/document/d/1UifSfQK2mQG8A0GIND6WAmG1CfaLYXk85HDzVmJ0peA/edit?usp=sharing
+
+[RELATÓRIO LP1.pdf](https://github.com/trindadetiago/TableTop/files/11779890/RELATORIO.LP1.pdf)
 
 Eis aqui sua introdução:
 
